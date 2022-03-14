@@ -1220,3 +1220,14 @@ section {
   color: #fff;
   text-decoration: none;
 }
+.makeShorter {
+  width: 85%;
+}
+#makeHorizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+.makeUpper {
+  text-transform: uppercase;
+}
