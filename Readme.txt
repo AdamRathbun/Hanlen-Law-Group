@@ -1,8 +1,1 @@
-
-Template Name: Lumia
-Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
-
-
-Template for use by Adam R.
+A fully responsive website for Hanlen Law Group, including landing page, pages for various law services, contact form, call now, reviews, general information, etc.
